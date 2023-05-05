@@ -16,5 +16,5 @@ unittest tests/test_models/test_base_model.py We strongly
 encourage you to work together on test cases, so that you don’t
  miss any edge cases
 
-THIS IS A TEAM PROJECT.
+THIS IS A TEAM PROJECT:.
 May, 2023.
